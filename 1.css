@@ -1,0 +1,49 @@
+.Layout-header {
+    z-index: auto;
+}
+.Layout-header {
+    position: relative;
+    z-index: 500;
+    width: 100%;
+    max-width: 1335px;
+    margin: 0 auto;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.Layout-root {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    flex-flow: column nowrap;
+    min-height: 100vh;
+    background-color: #000;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+body {
+    font-family: PF Regal,PF Regal Text Pro,Georgia,serif;
+}
+.hydrated {
+    visibility: inherit;
+}
+html {
+    font-size: 20px;
+}
+html {
+    font-size: 1.49813vw;
+}
+html {
+    font-size: 16px;
+}
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+}
